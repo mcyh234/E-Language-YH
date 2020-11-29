@@ -2,10 +2,11 @@
 ==========基础==========
 发布公告  |[gg]CNM CNM WCNM[GG]
 检查更新  |[ver]1.0[VER]
+更新信息  |[vergg]gengxinxinxi[VERGG]
 ==========HWID==========
 [hwids]001D6027D3C3178BFBFF00060FB1|[Hwids]
 示例：
 [hwid5]YH|luoyeguigen|other[Hwid5]
 ==========其他==========
-EXE JHM   |[password][password]
-Config JHM|[JHword][JHword]
+EXE JHM   |[password]123456[Password]
+Config JHM|[JHword]123456[JHWORD]
